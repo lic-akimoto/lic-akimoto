@@ -2,10 +2,13 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lic-akimoto&theme=gruvbox)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lic-akimoto&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lic-akimoto&theme=gruvbox)
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lic-akimoto&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lic-akimoto&theme=gruvbox&utcOffset=9)
+[![github-chart](https://github-chart.vercel.app/api?user=lic-akimoto)](https://github.com/xxxxxxxxxx/github-chart)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=lic-akimoto&theme=gruvbox)
